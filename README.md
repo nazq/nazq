@@ -4,7 +4,7 @@ Developer. Writer. Building things that think. The craft doesn't get easier — 
 
 ---
 
-30 years at the keyboard. Mathematics at Warwick, then Goldman Sachs, Morgan Stanley, Bloomberg, J.P. Morgan — building derivatives systems, data platforms, and ML solutions at global scale. Founded a voice recognition startup before most people had broadband. Now CTO at Princeton Equity Group and adjunct professor teaching machine learning at Northwestern.
+30 years at the keyboard. Mathematics at Warwick, then Goldman Sachs, Morgan Stanley, Bloomberg, J.P. Morgan — building derivatives systems, data platforms, and ML solutions at global scale, before it was cool. Founded a voice recognition startup before most people had broadband. Now CTO at Princeton Equity Group and adjunct professor teaching machine learning at Northwestern.
 
 I build tools, write about the layers underneath, and teach what I've learned the hard way.
 
