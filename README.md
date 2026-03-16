@@ -33,7 +33,7 @@ Rust, Python, Go, TypeScript. Previously C, C++, Java across decades of paradigm
 
 ### Elsewhere
 
-- **Blog:** [nazquadri.dev](https://nazquadri.dev)
+- **Blog:** [nazquadri.dev](https://nazquadri.dev/blog)
 - **Twitter:** [@NazQ2](https://twitter.com/nazq2)
 - **LinkedIn:** [naz-quadri](https://linkedin.com/in/naz-quadri)
 
